@@ -1,9 +1,9 @@
 package com.example.techpex.beautyparlorapp.home2;
 
 import android.content.Intent;
+import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 
 import com.example.techpex.beautyparlorapp.R;
 import com.example.techpex.beautyparlorapp.home.activity.LoginActivity;

@@ -1,7 +1,7 @@
 package com.example.techpex.beautyparlorapp.home.activity;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 import com.example.techpex.beautyparlorapp.R;
 

@@ -20,13 +20,13 @@
         </activity>
         <activity
             android:name=".home.activity.LoginActivity"
-            android:windowSoftInputMode="stateHidden"
-            android:theme="@style/NoActionBar"/>
+            android:theme="@style/NoActionBar"
+            android:windowSoftInputMode="stateHidden" />
         <activity
             android:name=".home.activity.SignUpActivity"
-            android:windowSoftInputMode="stateHidden"
-            android:theme="@style/NoActionBar" />
-        <activity android:name=".home.activity.HomeScreenActivity"/>
+            android:theme="@style/NoActionBar"
+            android:windowSoftInputMode="stateHidden" />
+        <activity android:name=".home.activity.HomeScreenActivity" />
     </application>
 
 </manifest>

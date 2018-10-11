@@ -51,16 +51,4 @@
     <dimen name="dp_48">48dp</dimen>
     <dimen name="dp_49">49dp</dimen>
     <dimen name="dp_50">50dp</dimen>
-
-
-
-
-
-    <dimen name="fourtydp">40dp</dimen>
-    <dimen name="twentydp">20dp</dimen>
-    <dimen name="twenty_two_dp">22dp</dimen>
-    <dimen name="sixteen_dp">16dp</dimen>
-    <dimen name="eighteen_dp">18dp</dimen>
-    <dimen name="ten_dp">10dp</dimen>
-    <dimen name="twelve_dp">12dp</dimen>
 </resources>

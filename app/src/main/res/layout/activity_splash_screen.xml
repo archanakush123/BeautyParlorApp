@@ -13,14 +13,14 @@
         android:src="@drawable/splash_screen_logo" />
 
     <TextView
-        android:layout_marginTop="@dimen/dp_8"
-        android:layout_below="@+id/img_logo"
-        android:gravity="center"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_below="@+id/img_logo"
+        android:layout_marginTop="@dimen/dp_8"
+        android:gravity="center"
         android:text="@string/beauty_tips"
         android:textColor="#8c2ec2"
-        android:textSize="32dp"
+        android:textSize="@dimen/dp_32"
         android:textStyle="bold|italic" />
 
 </RelativeLayout>
